@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Nurul Nasrin, I am currently working at Kiwitech Sdn Bhd as a data analyst.
 <!--
 **Nasrin2210/Nasrin2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
